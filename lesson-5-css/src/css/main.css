@@ -1,0 +1,52 @@
+body{
+	background-color:aliceblue
+	
+}
+
+.headline{
+	text-align: center;
+	font-size: 25px
+}
+
+.text1{
+	color:#DF9B6E;
+	text-decoration: underline
+}
+
+.text2{
+	color: #E62644;
+	font-style: italic
+}
+
+.text3{
+	color: #108549;
+	text-decoration: line-through
+	
+}
+
+.text4{
+	
+    color: #C8D527;
+	font-weight:bold;
+	
+}
+
+.bg1{
+	
+	background-color: #F46769
+}
+
+.bg2{
+	
+	background-color:#DEEC98
+}
+.bg3{
+	background-color: #4BDF72
+}
+
+.border1{
+	border: dashed;
+	border-color: #8964DE
+}
+
+
