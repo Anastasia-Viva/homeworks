@@ -1,7 +1,9 @@
 body{
 	
 	background-color:#f9f9f9;
-    height: 720px;
+	margin: 0;
+	
+   
 	
 }
 
@@ -15,13 +17,28 @@ h1{
 
 .images{
 	
-	margin-top: 156px;
+	 max-width: 1200px;
+	
+	margin-top: 256px;
+	
 	display: flex;
+	
 	justify-content: space-around;
-	 margin-left: 390px;
-	margin-right: 390px;
+	
+	 
+    margin: 0 auto;
+	
+    padding: 0 15px;
 	
 	
+	
+	
+}
+
+pic{
+	
+	 flex-basis: 22%;
+      margin: 0 5px;
 }
 
 img {
@@ -29,18 +46,20 @@ img {
 	height: 210px;
 	padding-left: 29px;
 	padding-right: 29px;
-	padding-bottom: 25px
+	padding-bottom: 25px;
+	margin-right: 29px;
 }
 
 span{
+	
 	font-size: 16px;
 }
 
-.pic a{
+a{
 	width: 200px;
 	height: 55px;
 	border: 1px #23bac1;
-	border-color: #23bac1
+	border-color: #23bac1;
 	font: #23bac1;
 	
 }
