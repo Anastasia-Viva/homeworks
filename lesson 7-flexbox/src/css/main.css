@@ -1,3 +1,8 @@
+ * {
+	 box-sizing: border-box;
+}
+
+
 body{
 	
 	background-color:#f9f9f9;
@@ -44,13 +49,12 @@ h1{
 img {
 	width: 263px;
 	height: 210px;
-	padding-left: 29px;
-	padding-right: 29px;
+	
 	padding-bottom: 25px;
-	margin-right: 29px;
+	
 }
 
-span{
+h2 h3 a{
 	
 	font-size: 16px;
 }
@@ -59,8 +63,6 @@ a{
 	width: 200px;
 	height: 55px;
 	border: 1px #23bac1;
-	border-color: #23bac1;
-	font: #23bac1;
 	
 }
 
