@@ -34,6 +34,7 @@ h1{
     margin: 0 auto;
 	
     padding: 0 15px;
+	padding-top: 125px
 	
 	
 	
@@ -54,21 +55,34 @@ img {
 	
 }
 
-h2 h3 a{
+h2 {
 	
 	font-size: 16px;
+	font-family: "sans-serif";
+	padding-bottom: 22px;
+	font-weight: 300;
+	
 }
 
-a{
+button{
 	width: 200px;
 	height: 55px;
-	border: 1px #23bac1;
+	text-transform: uppercase;
+	border: 1px solid #23bac1;
+	color: #23bac1;
+	font-size: 13px;
+	background-color: #f9f9f9;
+	padding: 22px ;
+	
 	
 }
 
-h3{
+span{
 	font-size: 18px;
-	
-	
+	padding-bottom: 25px;
+	font-weight: 700;
+		
 }
+
+
 
