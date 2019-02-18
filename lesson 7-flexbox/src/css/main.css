@@ -35,9 +35,9 @@ h1{
 	
 }
 
-pic{
+.pic{
 	
-	 flex-basis: 22%;
+	 width: 22%;
       margin: 0 5px;
 }
 
