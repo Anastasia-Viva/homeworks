@@ -59,20 +59,27 @@ h2 {
 	
 	font-size: 16px;
 	font-family: "sans-serif";
-	padding-bottom: 22px;
+	padding-bottom: 18px;
 	font-weight: 300;
+	text-align: center
 	
 }
 
 button{
-	width: 200px;
-	height: 55px;
+	
 	text-transform: uppercase;
 	border: 1px solid #23bac1;
 	color: #23bac1;
 	font-size: 13px;
 	background-color: #f9f9f9;
 	padding: 22px ;
+	display: block;
+	 padding: 18px 0;
+	 width: 200px;
+	  margin: 0 auto;
+	text-align: center
+	
+	
 	
 	
 }
@@ -81,6 +88,8 @@ span{
 	font-size: 18px;
 	padding-bottom: 25px;
 	font-weight: 700;
+	text-align: center;
+	display: block;
 		
 }
 
