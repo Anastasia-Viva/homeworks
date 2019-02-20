@@ -238,7 +238,13 @@ font-weight: 400;
 
 
 
-
+.footer-wrap{
+	
+	display: flex;
+	justify-content: space-between;
+	
+	
+}
 
 
 
@@ -248,23 +254,17 @@ font-weight: 400;
 	color: #fff;
 	padding-top: 70px;
 	padding-bottom: 70px;
-	
+ 
 	
 		
 }
 
-.footer-wrap{
-	
-	display: flex;
-	justify-content: space-between;
-	margin-left: 200px
-	
-}
+
 
 .footer-block{
 	
     width: 33%;
-	
+margin-left: 200p;	
 	
 }
 
