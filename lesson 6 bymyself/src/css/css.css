@@ -30,6 +30,13 @@ body {
     margin-right: 18%;
     width: 30%;
 }
+
+img{
+	
+	width: 100%;
+	max-width: 367px
+}
+
 .box img {
 
 	
