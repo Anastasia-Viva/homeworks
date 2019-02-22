@@ -1,0 +1,142 @@
+body{
+	
+	background-color: #f4f5f7;
+}
+
+img{
+	
+	max-width: 100%;
+}
+
+.subtitle{
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 15px
+	
+}
+
+.title{
+	
+	font-size: 48px;
+    font-weight: 700;
+}
+
+.price{
+	
+	font-size: 48px;
+    font-weight: 400;
+}
+
+.main{
+	margin-top: 100px
+}
+
+.head{
+	background-color: #f4f5f7;
+	padding-top: 70px;
+	padding-bottom: 190px;
+	
+}
+.section-subtitle{
+	
+font-size: 20px;
+font-weight: 400;
+}
+
+
+.section-title{
+	
+	font-size: 48px;
+font-weight: 700;
+}
+
+.about{
+	
+	background-color: #ffffff;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+.about-block{
+	
+	margin-top: 100px
+}
+
+.people-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.people-wrap img {
+    width: 31.8%;
+    margin: 0 5px 36px;
+}
+
+.people {
+    padding-top: 90px;
+	padding-bottom: 112px
+	background-color: #f4f5f7;
+
+}
+
+.footer-wrap{
+	
+	display: flex;
+	justify-content: space-between;
+	
+	
+}
+
+
+
+.footer{
+	
+	background-color: #32325f;;
+	color: #fff;
+	
+	 padding: 78px 0 104px;
+ 
+	
+		
+}
+
+
+
+.footer-block{
+	
+    width: 33%;
+margin-left: 200p;	
+	
+}
+
+.footer-title{
+	
+	font-size: 24px;
+    font-weight: 700;
+	margin-bottom: 35px;
+	
+	
+}
+.footer a{
+	display: block;
+	color: white;
+ text-decoration: none;
+	
+	
+}
+
+.footer p{
+	
+	line-height: 1.4;
+	
+	
+	
+}
+
+
+
+
+
+
