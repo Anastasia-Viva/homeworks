@@ -21,6 +21,11 @@ img{
     font-weight: 700;
 }
 
+.btn-primary{
+	
+	margin-right: 30px
+}
+
 .price{
 	
 	font-size: 48px;
@@ -93,10 +98,11 @@ font-weight: 700;
 
 .footer{
 	
-	background-color: #32325f;;
+	background-color: #32325f;
 	color: #fff;
-	
-	 padding: 78px 0 104px;
+	 padding-bottom: 100px;
+	padding-top: 100px;
+	justify-content: space-around;
  
 	
 		
@@ -106,7 +112,7 @@ font-weight: 700;
 
 .footer-block{
 	
-    width: 33%;
+   
 margin-left: 200p;	
 	
 }
