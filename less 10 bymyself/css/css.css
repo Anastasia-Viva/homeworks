@@ -11,6 +11,7 @@ img{
 .subtitle{
 	font-size: 20px;
 	font-weight: 400;
+	color: #32325f;
 	margin-bottom: 15px
 	
 }
@@ -19,6 +20,7 @@ img{
 	
 	font-size: 48px;
     font-weight: 700;
+	color: #32325f;
 }
 
 .btn-success{
@@ -54,7 +56,8 @@ img{
 }
 
 .block-text{
-	font-weight: 400
+	font-weight: 400;
+	color: #525f7f;
 	
 }
 
@@ -67,6 +70,7 @@ img{
 	
 font-size: 20px;
 font-weight: 400;
+	color: #32325f;
 }
 
 
@@ -74,13 +78,15 @@ font-weight: 400;
 	
 font-size: 48px;
 font-weight: 700;
+	color: #32325f;
 }
 
 .title1{
 	
 	font-size: 48px;
     font-weight: 700;
-	margin-bottom: 64px
+	margin-bottom: 64px;
+	color: #32325f;
 }
 
 .about{
@@ -117,9 +123,6 @@ font-weight: 700;
 	
 		
 }
-
-
-
 
 
 .footer-title{
