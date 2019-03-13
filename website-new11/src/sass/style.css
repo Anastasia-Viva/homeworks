@@ -333,32 +333,32 @@ img {
 }
 
 @media (max-width: 1200px) {
-  .offer .offer {
+  .offer {
     background-size: 100%;
   }
-  .offer .offer__input {
+  .offer__input {
     background-size: cover;
     width: 100%;
     margin-bottom: 10px;
   }
-  .offer .offer__button {
+  .offer__button {
     font-size: 13px;
   }
 }
 
 @media (max-width: 768px) {
-  .offer .offer {
+  .offer {
     background: #fff;
   }
-  .offer .offer-block {
+  .offer-block {
     width: 100%;
     padding-right: 0;
   }
-  .offer .offer__input {
+  .offer__input {
     width: 100%;
     margin-bottom: 10px;
   }
-  .offer .offer__button {
+  .offer__button {
     font-size: 13px;
   }
 }
