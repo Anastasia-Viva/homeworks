@@ -334,7 +334,7 @@ img {
 
 @media (max-width: 1200px) {
   .offer {
-    background-size: 100%;
+    background-size: auto 100%;
   }
   .offer__input {
     background-size: cover;
@@ -348,7 +348,7 @@ img {
 
 @media (max-width: 992px) {
   .offer {
-    background-size: 100%;
+    background-size: auto 100%;
     width: 100%;
   }
 }
@@ -356,6 +356,7 @@ img {
 @media (max-width: 768px) {
   .offer {
     background: #fff;
+    background-size: auto 100%;
   }
   .offer-block {
     width: 100%;
@@ -394,6 +395,7 @@ img {
   min-width: 200px;
   background-color: #fff;
   padding: 40px;
+  cursor: pointer;
 }
 
 .modal-dialog__close {
@@ -401,5 +403,22 @@ img {
   top: 0;
   right: 0;
   outline: none !important;
+  cursor: pointer;
+}
+
+#close {
+  font-family: sans-serif;
+  font-size: 13px;
+  color: #333;
+  font-weight: 700;
+  border-radius: 6px;
+  background-color: #fff;
+  height: 49px;
+  width: 70px;
+  text-align: center;
+  line-height: 49px;
+  display: block;
+  margin-left: 30px;
+  border: 0px;
 }
 /*# sourceMappingURL=style.css.map */
